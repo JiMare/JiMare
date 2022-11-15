@@ -1,6 +1,10 @@
 👋 Hello, I am Jitka
 =====================
 
+I'm a passionate web developer with a constant desire to learn. I improve the most in these technologies: React, Typescript, Material UI, GraphQL, REST. 
+🌱 I’m currently learning backend technologies Node.js and framework Express. 🔭 I’m currently working on application phone-book, which is my first fullstack
+application. 
+
 
 <!--
 **JiMare/JiMare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
