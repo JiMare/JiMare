@@ -2,8 +2,7 @@
 =====================
 
 I'm a passionate web developer with a constant desire to learn. I have improved the most in these technologies: React, Typescript, Material UI, GraphQL, REST. 
-🌱 I’m currently learning backend technologies Node.js and framework Express. 🔭 I’m currently working on application phone-book, which is my first fullstack
-application. 
+🌱 I’m currently couching some juniors in organization Czechitas. 🔭 I’m currently working on application SpaceScope, which use NASA APi. 
 
 
 <!--
