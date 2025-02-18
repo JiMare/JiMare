@@ -2,7 +2,7 @@
 =====================
 
 I'm a passionate web developer with a constant desire to learn. I have improved the most in these technologies: React, Typescript, Material UI, GraphQL, REST. 
-🌱 I’m currently couching learning Node.js.  
+🌱 I’m currently learning Node.js.  
 
 
 <!--
