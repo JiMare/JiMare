@@ -1,7 +1,7 @@
 👋 Hello, I am Jitka
 =====================
 
-I'm a passionate web developer with a constant desire to learn. I have improved the most in these technologies: React, Typescript, Material UI, GraphQL, REST. 
+I'm a passionate web developer with a constant desire to learn. I have improved the most in these technologies: React, Typescript, Next.js, Vue.js. 
 🌱 I’m currently learning Node.js.  
 
 
